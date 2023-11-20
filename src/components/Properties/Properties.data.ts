@@ -1,7 +1,7 @@
 export const dataProperties = [
   {
     id: 1,
-    location: "Cuenca, Valencia, ES",
+    location: "Montevideo",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -9,11 +9,11 @@ export const dataProperties = [
     star: 4.5,
     meters: 430,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Montevideo, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 2,
-    location: "Cuenca, Valencia, ES",
+    location: "Montevideo",
     price: 150000,
     bedrooms: 2,
     bathroom: 2,
@@ -21,11 +21,11 @@ export const dataProperties = [
     star: 4,
     meters: 230,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Montevideo, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 3,
-    location: "Cuenca, Valencia, ES",
+    location: "Canelones",
     price: 35.0,
     bedrooms: 5,
     bathroom: 2,
@@ -33,11 +33,11 @@ export const dataProperties = [
     star: 5,
     meters: 90,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Canelones, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 4,
-    location: "Cuenca, Valencia, ES",
+    location: "Florida",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -45,11 +45,11 @@ export const dataProperties = [
     star: 4.2,
     meters: 120,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Florida, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 5,
-    location: "Cuenca, Valencia, ES",
+    location: "Flores",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -57,11 +57,11 @@ export const dataProperties = [
     star: 4.1,
     meters: 87,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Flores, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 6,
-    location: "Cuenca, Valencia, ES",
+    location: "Durazno",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -69,11 +69,11 @@ export const dataProperties = [
     star: 3.7,
     meters: 220,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Durazno, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 7,
-    location: "Cuenca, Valencia, ES",
+    location: "Rocha",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -81,11 +81,11 @@ export const dataProperties = [
     star: 4.5,
     meters: 430,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Rocha, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 8,
-    location: "Cuenca, Valencia, ES",
+    location: "Paysandú",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -93,11 +93,11 @@ export const dataProperties = [
     star: 4.5,
     meters: 330,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Paysandú, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 9,
-    location: "Cuenca, Valencia, ES",
+    location: "Salto",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -105,11 +105,11 @@ export const dataProperties = [
     star: 4.5,
     meters: 380,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Salto, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 10,
-    location: "Cuenca, Valencia, ES",
+    location: "Rivera",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -117,11 +117,11 @@ export const dataProperties = [
     star: 4.1,
     meters: 270,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Rivera, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 11,
-    location: "Cuenca, Valencia, ES",
+    location: "Colonia",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -129,11 +129,11 @@ export const dataProperties = [
     star: 5,
     meters: 430,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Colonia, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 12,
-    location: "Cuenca, Valencia, ES",
+    location: "Maldonado",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -141,11 +141,11 @@ export const dataProperties = [
     star: 3.9,
     meters: 76,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Maldonado, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 13,
-    location: "Cuenca, Valencia, ES",
+    location: "Maldonado",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -153,11 +153,11 @@ export const dataProperties = [
     star: 4.8,
     meters: 290,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Maldonado, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 14,
-    location: "Cuenca, Valencia, ES",
+    location: "Rocha",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -165,11 +165,11 @@ export const dataProperties = [
     star: 4.9,
     meters: 180,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Rocha, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 15,
-    location: "Cuenca, Valencia, ES",
+    location: "Colonia",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -177,11 +177,11 @@ export const dataProperties = [
     star: 4.1,
     meters: 287,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Colonia, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
   {
     id: 16,
-    location: "Cuenca, Valencia, ES",
+    location: "Montevideo",
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
@@ -189,6 +189,6 @@ export const dataProperties = [
     star: 4,
     meters: 290,
     description:
-      "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
+      "En el corazón de la encantadora ciudad de Montevideo, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
 ];
